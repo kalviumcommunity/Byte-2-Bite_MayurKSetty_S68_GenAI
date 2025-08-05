@@ -1,8 +1,8 @@
 # 🍽️ Byte-2-Bite — AI-Powered Recipe Generator
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/your-username/byte-2-bite/ci.yml?branch=main)](https://github.com/your-username/byte-2-bite/actions)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/kalviumcommunity/Byte-2-Bite_MayurKSetty_S68_GenAI/ci.yml?branch=main)](https://github.com/kalviumcommunity/Byte-2-Bite_MayurKSetty_S68_GenAI/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Pages Status](https://img.shields.io/github/actions/workflow/status/your-username/byte-2-bite/pages.yml?branch=gh-pages)](https://your-username.github.io/byte-2-bite/)
+[![Pages Status](https://img.shields.io/github/actions/workflow/status/kalviumcommunity/Byte-2-Bite_MayurKSetty_S68_GenAI/pages.yml?branch=gh-pages)](https://your-username.github.io/byte-2-bite/)
 
 **Byte-2-Bite** is a smart, intuitive AI recipe generator designed to help users decide what to cook based on the ingredients they already have and the cuisine they crave. Built using **Gemini Studio**, this project seamlessly combines Prompt Engineering, Retrieval-Augmented Generation (RAG), Structured Outputs, and Function Calling to deliver accurate, creative, and delicious recipe suggestions.
 
@@ -81,7 +81,7 @@
 1. **Clone the repo**:
 
    ```bash
-   git clone https://github.com/your-username/byte-2-bite.git
+   git clone https://github.com/kalviumcommunity/Byte-2-Bite_MayurKSetty_S68_GenAI.git
    cd byte-2-bite
    ```
 2. **Install dependencies**:
