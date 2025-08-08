@@ -22,7 +22,7 @@
   * `cuisine`
   * `difficulty`
 * 🔧 **Function Calling**: Modular operations for fetching, filtering, and regenerating recipe options.
-* 🌐 **GitHub Pages**: Live demo hosted at [your-username.github.io/byte-2-bite](https://your-username.github.io/byte-2-bite/).
+* 🌐 **GitHub Pages**: Live demo hosted at [Byte-2-Bite](https://your-username.github.io/byte-2-bite/](https://byte-2-bite-mayur-k-setty-s68-gen-a.vercel.app/).
 
 ---
 
@@ -110,11 +110,11 @@ View live demo at: [https://your-username.github.io/byte-2-bite/](https://your-u
 
 ## 📸 UI Mockups
 
-![Home Screen Mockup](docs/mockups/home.png)
+Home Screen Mockup: 
+<img width="1470" height="880" alt="Screenshot 2025-08-08 at 4 05 48 PM" src="https://github.com/user-attachments/assets/c93513a5-d513-4867-9a71-5e3ce3c07bf7" />
 
-![Recipe Results Mockup](docs/mockups/results.png)
-
-*Mockups available in the `docs/mockups/` directory.*
+Recipe Results Mockup:
+<img width="1470" height="879" alt="Screenshot 2025-08-08 at 4 06 13 PM" src="https://github.com/user-attachments/assets/230737df-2293-4799-9e8e-38144d73bd33" />
 
 ---
 
