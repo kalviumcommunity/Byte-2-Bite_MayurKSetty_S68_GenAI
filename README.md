@@ -22,7 +22,7 @@
   * `cuisine`
   * `difficulty`
 * 🔧 **Function Calling**: Modular operations for fetching, filtering, and regenerating recipe options.
-* 🌐 **GitHub Pages**: Live demo hosted at [Byte-2-Bite](https://your-username.github.io/byte-2-bite/](https://byte-2-bite-mayur-k-setty-s68-gen-a.vercel.app/).
+* 🌐 **GitHub Pages**: Live demo hosted at [Byte-2-Bite](https://byte-2-bite-mayur-k-setty-s68-gen-a.vercel.app/).
 
 ---
 
@@ -104,7 +104,7 @@
    npm run deploy
    ```
 
-View live demo at: [https://your-username.github.io/byte-2-bite/](https://your-username.github.io/byte-2-bite/)
+View live demo at: [Byte-2-Bite](https://byte-2-bite-mayur-k-setty-s68-gen-a.vercel.app/)
 
 ---
 
