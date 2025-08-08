@@ -26,7 +26,9 @@ const handleRecipePrompt = async (req, res) => {
             model: 'gemini-2.5-flash',
             generationConfig: {
                 responseMimeType: 'application/json', // Force JSON output
-                temperature: 0.7, // Creativity level
+                temperature: 0.7, // Creativity level kept to a reasonable level
+                topP: 0.9, // Use nucleus sampling for diversity
+                topK: 40, // Limit to top 40 tokens for efficiency
                 maxOutputTokens: 1024 // Ensure enough space for recipes
             }
         });
