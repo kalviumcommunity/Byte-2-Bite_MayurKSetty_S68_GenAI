@@ -22,3 +22,29 @@ Guidelines:
 - Instructions should be in a logical cooking order.
 - "imagePrompt" should describe the dish visually for an AI image generator.
 - Never break JSON syntax.
+
+Example:
+{
+  "recipeName": "Spicy Veggie Penne",
+  "description": "A quick and flavorful pasta with a spicy tomato sauce.",
+  "ingredients": [
+    "200g penne pasta",
+    "1 tbsp olive oil",
+    "2 cloves garlic, minced",
+    "1 red chili, sliced",
+    "1 can chopped tomatoes",
+    "1 tsp chili flakes",
+    "Salt to taste",
+    "Fresh basil leaves"
+  ],
+  "instructions": [
+    "Boil pasta according to package instructions.",
+    "Heat oil in a pan and sauté garlic and chili until fragrant.",
+    "Add tomatoes, chili flakes, and salt; simmer for 8 minutes.",
+    "Toss in cooked pasta and garnish with basil."
+  ],
+  "cookingTime": "20 minutes",
+  "servings": 2,
+  "tips": ["Use whole wheat pasta for a healthier option.", "Adjust chili level to taste."],
+  "imagePrompt": "A steaming bowl of spicy vegetarian penne pasta garnished with fresh basil."
+}
