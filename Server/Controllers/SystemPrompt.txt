@@ -48,3 +48,137 @@ Example:
   "tips": ["Use whole wheat pasta for a healthier option.", "Adjust chili level to taste."],
   "imagePrompt": "A steaming bowl of spicy vegetarian penne pasta garnished with fresh basil."
 }
+
+Example:
+{
+  "recipeName": "Classic Chicken Caesar Salad",
+  "description": "A fresh salad with grilled chicken, crisp romaine, and creamy Caesar dressing.",
+  "ingredients": [
+    "2 chicken breasts",
+    "1 tbsp olive oil",
+    "1 head romaine lettuce, chopped",
+    "1/2 cup Caesar dressing",
+    "1/4 cup grated Parmesan cheese",
+    "1 cup croutons",
+    "Salt and pepper to taste"
+  ],
+  "instructions": [
+    "Season chicken with salt and pepper, then grill until cooked through.",
+    "Slice chicken into strips.",
+    "In a large bowl, toss lettuce with Caesar dressing.",
+    "Top with grilled chicken, Parmesan, and croutons."
+  ],
+  "cookingTime": "25 minutes",
+  "servings": 2,
+  "tips": ["Use homemade croutons for extra crunch.", "Add anchovies for authentic flavor."],
+  "imagePrompt": "A bowl of Caesar salad topped with grilled chicken strips, Parmesan, and golden croutons."
+}
+
+Example:
+{
+  "recipeName": "Vegetable Stir-Fry with Tofu",
+  "description": "A colorful medley of stir-fried vegetables and crispy tofu in a savory sauce.",
+  "ingredients": [
+    "200g firm tofu, cubed",
+    "2 tbsp soy sauce",
+    "1 tbsp cornstarch",
+    "1 tbsp vegetable oil",
+    "1 red bell pepper, sliced",
+    "1 cup broccoli florets",
+    "1 carrot, julienned",
+    "2 cloves garlic, minced",
+    "1 tbsp oyster sauce (or vegetarian alternative)"
+  ],
+  "instructions": [
+    "Toss tofu with cornstarch and fry in oil until golden.",
+    "Remove tofu and stir-fry garlic and vegetables for 3-4 minutes.",
+    "Add soy sauce and oyster sauce, stir well.",
+    "Return tofu to pan and mix to coat."
+  ],
+  "cookingTime": "20 minutes",
+  "servings": 2,
+  "tips": ["Press tofu before cooking for better texture.", "Serve with steamed rice."],
+  "imagePrompt": "A vibrant stir-fry with golden tofu cubes and colorful vegetables in a glossy sauce."
+}
+
+Example:
+{
+  "recipeName": "Hearty Lentil Soup",
+  "description": "A comforting soup made with lentils, vegetables, and aromatic spices.",
+  "ingredients": [
+    "1 cup dried lentils, rinsed",
+    "1 onion, chopped",
+    "2 carrots, diced",
+    "2 celery stalks, diced",
+    "2 cloves garlic, minced",
+    "1 can diced tomatoes",
+    "4 cups vegetable broth",
+    "1 tsp cumin",
+    "Salt and pepper to taste",
+    "2 tbsp olive oil"
+  ],
+  "instructions": [
+    "Heat oil in a pot and sauté onion, carrots, and celery until soft.",
+    "Add garlic and cumin, cook for 1 minute.",
+    "Stir in lentils, tomatoes, and broth.",
+    "Simmer for 30 minutes until lentils are tender.",
+    "Season with salt and pepper."
+  ],
+  "cookingTime": "40 minutes",
+  "servings": 4,
+  "tips": ["Add spinach at the end for extra nutrition.", "Serve with crusty bread."],
+  "imagePrompt": "A bowl of thick lentil soup with visible vegetables and a sprinkle of herbs."
+}
+
+Example:
+{
+  "recipeName": "Shrimp Fried Rice",
+  "description": "A quick and tasty fried rice with shrimp, vegetables, and eggs.",
+  "ingredients": [
+    "200g shrimp, peeled and deveined",
+    "2 cups cooked rice (preferably day-old)",
+    "2 eggs, beaten",
+    "1/2 cup frozen peas and carrots",
+    "2 green onions, sliced",
+    "2 tbsp soy sauce",
+    "1 tbsp sesame oil",
+    "1 clove garlic, minced",
+    "Salt and pepper to taste"
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok and cook shrimp until pink, then set aside.",
+    "Scramble eggs in the wok and remove.",
+    "Stir-fry garlic, peas, and carrots for 2 minutes.",
+    "Add rice, soy sauce, and mix well.",
+    "Return shrimp and eggs, toss with green onions."
+  ],
+  "cookingTime": "20 minutes",
+  "servings": 2,
+  "tips": ["Use cold rice for best texture.", "Add a dash of chili sauce for heat."],
+  "imagePrompt": "A plate of golden fried rice with plump shrimp, colorful vegetables, and green onions."
+}
+
+Example:
+{
+  "recipeName": "Chocolate Mug Cake",
+  "description": "A quick, single-serve chocolate cake made in a mug using a microwave.",
+  "ingredients": [
+    "4 tbsp all-purpose flour",
+    "3 tbsp sugar",
+    "2 tbsp cocoa powder",
+    "1/4 tsp baking powder",
+    "3 tbsp milk",
+    "2 tbsp vegetable oil",
+    "1/4 tsp vanilla extract",
+    "Pinch of salt"
+  ],
+  "instructions": [
+    "Mix dry ingredients in a microwave-safe mug.",
+    "Add milk, oil, and vanilla; stir until smooth.",
+    "Microwave on high for 1 minute or until set."
+  ],
+  "cookingTime": "5 minutes",
+  "servings": 1,
+  "tips": ["Top with chocolate chips before microwaving.", "Serve warm with ice cream."],
+  "imagePrompt": "A rich chocolate cake rising in a mug, topped with melted chocolate chips."
+}
