@@ -41,7 +41,7 @@ function Home() {
     if (!prompt.trim()) return;
     setLoading(true);
     try {
-      const res = await axios.post("https://byte-2-bite-mayurksetty-s68-genai.onrender.com/api/ask", { prompt });
+      const res = await axios.post("http://localhost:3000/api/ask", { prompt });
       const data = res.data;
       console.log("Response from server:", data);
       // The reply is a JSON string, so we need to parse it

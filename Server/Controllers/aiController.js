@@ -23,7 +23,7 @@ const handleRecipePrompt = async (req, res) => {
     try {
         // Initialize Gemini model
         const model = genAI.getGenerativeModel({
-            model: 'gemini-2.5-flash',
+            model: 'gemini-2.5-pro',
             generationConfig: {
                 responseMimeType: 'application/json', // Force JSON output
                 temperature: 0.7, // Creativity level kept to a reasonable level
